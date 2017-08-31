@@ -7,8 +7,4 @@
 --------|---------------------------------|----------------------
  早地铁 | LeetCode                        | 用java实现           
  晚地铁 | LeetCode                        | 用java实现，注意总结 
- 睡前   | 1. 记录总结LeetCode到Github上   |                      
-        | 2. LeetCode题目用JavaScript实现 |                      
-        | 3. LeetCode题目用Python实现     |                      
-        | 4. 锻炼                         |                      
-        | 5. 回想                         |                      
+ 睡前   | 1. 记录总结LeetCode到Github上<br/>2. LeetCode题目用JavaScript实现<br/>3. LeetCode题目用Python实现<br/>|                      
