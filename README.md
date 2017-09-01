@@ -1,6 +1,5 @@
 # 君子坦荡荡，万元傻逼逼
 
----
 # LeetCode 做题记录
 [LeetCode](https://leetcode.com/problems/)
 
