@@ -2,12 +2,13 @@
 # LeetCode 做题记录
 [LeetCode](https://leetcode.com/problems/)
 
-| No. | Question     | Language    | Difficulty | Add Date   | Last update Date |
-|-----|--------------|-------------|------------|------------|------------------|
-| 1   | [Two Sum][1] | [Java][1_1] | Easy       | 2017-09-01 |                  |
+| No. | Question     | Language                     | Difficulty | Add Date   | Last update Date |
+|-----|--------------|------------------------------|------------|------------|------------------|
+| 1   | [Two Sum][1] | [Java][1_1][JavaScript][1_2] | Easy       | 2017-09-01 |                  |
 
 [1]:001.Two%20Sum
 [1_1]:001.Two%20Sum/TwoSum.java
+[1_2]:001.Two%20Sum/twosum.js
 
 周一到周五：
 
