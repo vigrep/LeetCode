@@ -4,7 +4,7 @@
 
 | No. | Question     | Language                     | Difficulty | Add Date   | Last update Date |
 |-----|--------------|------------------------------|------------|------------|------------------|
-| 1   | [Two Sum][1] | [Java][1_1][JavaScript][1_2] | Easy       | 2017-09-01 |                  |
+| 1   | [Two Sum][1] | [Java][1_1] [JavaScript][1_2] | Easy       | 2017-09-01 |                  |
 
 [1]:001.Two%20Sum
 [1_1]:001.Two%20Sum/TwoSum.java
