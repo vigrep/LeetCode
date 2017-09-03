@@ -13,3 +13,12 @@ Given nums = [2, 7, 11, 15], target = 9,
 Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
+
+## Approach #1 (Brute Force)
+
+循环遍历每一个元素x，判断其他元素y是否满足：x + y = target,满足条件，返回x、y的下标
+
+复杂度分析：
+
+- 时间复杂度：O(n
+- 空间复杂度：
