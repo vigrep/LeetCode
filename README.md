@@ -1,10 +1,11 @@
 # 君子坦荡荡，万元傻逼逼
 
-# LeetCode 做题记录
-[LeetCode](https://leetcode.com/problems/)
+# [LeetCode](https://leetcode.com/problems/) 做题记录
 
 > 简单粗暴->句句在理
 
+---------------------------
+任务列表：
 - [x] Two Sum 解题算法
 - [ ] Two Sum 总结
 - [ ] Add Two Numbers 解题算法
