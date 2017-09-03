@@ -3,6 +3,12 @@
 # LeetCode 做题记录
 [LeetCode](https://leetcode.com/problems/)
 
+> 简单粗暴->句句在理
+
+- [x] Two Sum 解题算法
+- [ ] Two Sum 总结
+- [ ] Add Two Numbers 解题算法
+
 | No. | Question     | Language                                    | Difficulty | Add Date   | Last update Date |
 |-----|--------------|---------------------------------------------|------------|------------|------------------|
 | 1   | [Two Sum][1] | [Java][1_1] [JavaScript][1_2] [Python][1_3] | Easy       | 2017-09-01 |                  |
