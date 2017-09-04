@@ -6,15 +6,20 @@
 - [x] Two Sum 解题算法
 - [ ] Two Sum 总结
 - [ ] Add Two Numbers 解题算法
+- [ ] Add Two Numbers 总结
 
-| No. | Question     | Language                                    | Difficulty | Add Date   | Last update Date |
-|-----|--------------|---------------------------------------------|------------|------------|------------------|
-| 1   | [Two Sum][1] | [Java][1_1] [JavaScript][1_2] [Python][1_3] | Easy       | 2017-09-01 |                  |
+| No. | Question             | Language                                    | Difficulty | Add Date   | Last update Date |
+|-----|----------------------|---------------------------------------------|------------|------------|------------------|
+| 1   | [Two Sum][1]         | [Java][1_1] [JavaScript][1_2] [Python][1_3] | Easy       | 2017-09-01 |                  |
+| 2   | [Add Two Numbers][2] | [Java][2_1]                                 | Medium     | 2017-09-04 |                  |
 
 [1]:001.Two%20Sum
 [1_1]:001.Two%20Sum/TwoSum.java
 [1_2]:001.Two%20Sum/twosum.js
 [1_3]:001.Two%20Sum/TwoSum.py
+
+[2]:002.Add%20Two%20Numbers
+[2_1]:002.Add%20Two%20Numbers/Solution.java
 
 ------------------------
 
