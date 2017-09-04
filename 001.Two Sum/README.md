@@ -1,6 +1,6 @@
 # Two Sum 
 LeetCode链接：[Two Sum](https://leetcode.com/problems/two-sum/description/)
-### 问题描述
+## 问题描述
 给定一个整形数组和一个target(int), 要求输出该数组中任意两个元素相加为target的元素的索引。
 
 注：假定只有一个正确答案，并且数组中不会出现相同的元素.
@@ -28,6 +28,6 @@ return [0, 1].
 
 
 
-### 总结
+## 总结
 
 1. HashMap 减少元素查找时间复杂度
