@@ -12,7 +12,6 @@ class ListNode {
 
 public class Solution {
 
-	//自己实现
 	//Approach #1
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 		ListNode next1 = l1;
