@@ -2,7 +2,7 @@
 
 LeetCode链接：[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 
-### 问题描述
+# 问题描述
 
 用两个非空的链表代表两个非负整数，数字是逆序存储在链表中, 并且每一个节点只能存储一个数字(0-9),返回两个链表相加的结果。
 
@@ -17,6 +17,9 @@ Output: 5 -> 0 -> 8
 342 + 463 = 805
 ```
 
-## Approach #1
+# Approach #1
+(O_O) 语言描述不出来，还是看[代码](Solution.java)吧
 
-## Approach #2
+
+# Approach #2
+(O_O) 语言描述不出来，还是看[代码](Solution.java)吧
